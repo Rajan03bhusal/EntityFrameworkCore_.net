@@ -1,0 +1,6 @@
+@EntityFramework_HostAddress = http://localhost:5018
+
+GET {{EntityFramework_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
